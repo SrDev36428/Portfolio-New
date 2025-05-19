@@ -11,7 +11,7 @@
             <h2>IWDL</h2>
             <h3><b>Published:</b> Jun 11, 2024</h3>
             <h4>
-              <b>URL:</b> <a href="https://iwdl.vercel.app">IWDL.vercel.app</a>
+              <b>URL:</b> <a href="https://iwdl.org">IWDL.org</a>
             </h4>
 
             <div class="flex justify-between">
