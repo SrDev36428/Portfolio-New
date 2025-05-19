@@ -1,0 +1,10 @@
+export const TITLE_01 = "IDEAL";
+export const TITLE_02 = "SOFTER";
+export const LEVEL = "SEASONED SOFTWARE ENGINEER";
+export const START_DATE = "2015-09-15T09:00:00";
+export const PHONE_NUMBER = "+380 (95) 521 4228";  
+export const GMAIL = "Devsworld36428";
+export const GIT = "SrDev36428";
+export const SKYPE = "live:.cid.1403ef3bda526991";
+export const TELEGRAM = "BL36428";
+export const LINKEDIN = "/in/";
